@@ -1,0 +1,16 @@
+
+img {
+	border: 1px solid;
+	border-color: darkred;
+}
+
+body {
+	font-family: sans-serif;
+	color: darkblue;
+	background-color: lightyellow;
+}
+
+a {
+	font-style: italic;
+	text-decoration: none;
+}
