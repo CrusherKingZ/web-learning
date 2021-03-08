@@ -14,3 +14,7 @@ a {
 	font-style: italic;
 	text-decoration: none;
 }
+
+table {
+	position: relative;
+}
