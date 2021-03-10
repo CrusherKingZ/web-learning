@@ -10,9 +10,18 @@ body {
 	background-color: lightyellow;
 }
 
+.subtitle {
+	margin-left: 2%;
+}
+
 a {
 	font-style: italic;
 	text-decoration: none;
+	color:darkblue;
+}
+
+nav a {
+	margin-left:2%;
 }
 
 table {
